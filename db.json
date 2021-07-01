@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Changes made in server 005",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-06-28T12:37:44.494Z"
+    },
+    {
+      "message": "Last Room computer needs assistance room 07",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-06-28T18:35:00.826Z",
+      "id": 3
+    },
+    {
+      "message": "Searching working fine",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-06-28T18:37:01.385Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "firstname": "Sumair",
+      "lastname": "Faraz",
+      "id": 3
+    },
+    {
+      "firstname": "Ayan",
+      "lastname": "Jameel",
+      "id": 4
+    }
+  ]
+}
